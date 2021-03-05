@@ -17,3 +17,19 @@ ZCZC W00 30 L01 SCELE Related
 ZCZC W00 120 L08 Trying Something
 ZCZC W00 75 L22 Youtube : Study what is virtual machine
 ZCZC W00 15 L04 GitHub related
+
+# Week 01
+ZCZC W01 10 L03 Github related
+ZCZC W01 120 L02 ZOOM related
+ZCZC W01 20 L09 Asking AsDos : asking about virtual machine
+ZCZC W01 60 L23 Discord : Quiz, Read Forum
+ZCZC W01 120 L22 Youtube : Virtual Machine,Bash Scripting, Regex
+ZCZC W01 90 L05 GSGS
+ZCZC W01 120 L11 Assignment #1
+ZCZC W01 60 L12 Assignment #2
+ZCZC W01 45 L13 Assignment #3
+ZCZC W01 25 L14 Assignment #4
+ZCZC W01 10 L15 Assignment #5
+ZCZC W01 10 L16 Assignment #6
+ZCZC W01 75 L17 Assignment #7
+ZCZC W01 45 L18 Assignment #8
