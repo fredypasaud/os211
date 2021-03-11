@@ -2,7 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://ops4diss.vlsm.org/ETC/logCodes.txt
 
-# Week 00
 ZCZC W00 45 L03 Github related
 ZCZC W00 15 L03 Github Related
 ZCZC W00 120 L02 ZOOM related
@@ -17,8 +16,6 @@ ZCZC W00 30 L01 SCELE Related
 ZCZC W00 120 L08 Trying Something
 ZCZC W00 75 L22 Youtube : Study what is virtual machine
 ZCZC W00 15 L04 GitHub related
-
-# Week 01
 ZCZC W01 10 L03 Github related
 ZCZC W01 120 L02 ZOOM related
 ZCZC W01 20 L09 Asking AsDos : asking about virtual machine
@@ -33,3 +30,7 @@ ZCZC W01 10 L15 Assignment #5
 ZCZC W01 10 L16 Assignment #6
 ZCZC W01 75 L17 Assignment #7
 ZCZC W01 45 L18 Assignment #8
+ZCZC W02 120 L02 ZOOM Related
+ZCZC W02 45 L01 SCELE Related
+ZCZC W02 45 L23 Discord : reading, quiz
+ZCZC W02 150 L11 Assignment #1
