@@ -10,8 +10,9 @@ This is my page for OS (Operating System) course assignment. <br/>
 To see my OS202 Github Repository and Github Page click this link below. <br/>
 * **Github Repository** -> [OS211 Github Repository](https://github.com/fredypasaud/os211/) <br/>
 * **Github Page** -> [OS211 Github Page](https://fredypasaud.github.io/os211/) <br/>
-* **MyLog** -> [OS211 Log](https://fredypasaud.github.io/os211/TXT/mylog.txt) <br/>
-* **MyRank** -> [OS211 Top-10 Rank](https://fredypasaud.github.io/os211/TXT/myrank.txt) <br/>
+* **My Log** -> [OS211 Log](https://fredypasaud.github.io/os211/TXT/mylog.txt) <br/>
+* **My Rank** -> [OS211 Top-10 Rank](https://fredypasaud.github.io/os211/TXT/myrank.txt) <br/>
+* **My Key** -> [OS211 Top-10 Rank](https://fredypasaud.github.io/os211/TXT/mypubkey.txt) <br/>
 
 ## Operating Systems Weekly Top Ten List
 
