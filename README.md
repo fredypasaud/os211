@@ -12,7 +12,7 @@ To see my OS202 Github Repository and Github Page click this link below. <br/>
 * **Github Page** -> [OS211 Github Page](https://fredypasaud.github.io/os211/) <br/>
 * **My Log** -> [OS211 Log](https://fredypasaud.github.io/os211/TXT/mylog.txt) <br/>
 * **My Rank** -> [OS211 Top-10 Rank](https://fredypasaud.github.io/os211/TXT/myrank.txt) <br/>
-* **My Key** -> [OS211 Top-10 Rank](https://fredypasaud.github.io/os211/TXT/mypubkey.txt) <br/>
+* **My Key** -> [OS211 Pubkey](https://fredypasaud.github.io/os211/TXT/mypubkey.txt) <br/>
 
 ## Operating Systems Weekly Top Ten List
 
