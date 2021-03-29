@@ -59,3 +59,16 @@ ZCZC W03 120 L05 GSGS Related
 ZCZC W03 45 L23 Discord : reading, quiz
 ZCZC W03 75 L08 Trying Something
 ZCZC W03 30 L09 Asdos : asking
+ZCZC W04 120 L02 ZOOM Related
+ZCZC W04 120 L11 Assignment #1
+ZCZC W04 45 L12 Assignment #2
+ZCZC W04 15 L13 Assignment #3
+ZCZC W04 240 L14 Assignment #4
+ZCZC W04 10 L15 Assignment #5
+ZCZC W04 60 L16 Assignment #6
+ZCZC W04 10 L17 Assignment #7
+ZCZC W04 15 L18 Assignment #8
+ZCZC W04 120 L05 GSGS Related
+ZCZC W04 30 L01 SCELE Related
+ZCZC W04 45 L23 Discord : reading, quiz
+ZCZC W04 75 L22 Youtube : Study about adressing
