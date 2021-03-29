@@ -6,3 +6,6 @@ ZCZC W03 gabriel-enrique
 ZCZC W03 freezetabs
 ZCZC W03 ganiirsyadi
 ZCZC W03 FXDROS
+ZCZC W04 freezetabs
+ZCZC W04 ganiirsyadi
+ZCZC W04 frsardhf
