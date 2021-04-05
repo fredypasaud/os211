@@ -72,3 +72,14 @@ ZCZC W04 120 L05 GSGS Related
 ZCZC W04 30 L01 SCELE Related
 ZCZC W04 45 L23 Discord : reading, quiz
 ZCZC W04 75 L22 Youtube : Study about adressing
+ZCZC W05 120 L02 ZOOM Related
+ZCZC W05 130 L11 Assignment #1
+ZCZC W05 15 L12 Assignment #2
+ZCZC W05 130 L13 Assignment #3
+ZCZC W05 130 L14 Assignment #4
+ZCZC W05 15 L15 Assignment #5
+ZCZC W05 15 L16 Assignment #6
+ZCZC W05 120 L05 GSGS Related
+ZCZC W05 30 L01 SCELE Related
+ZCZC W05 45 L23 Discord : reading, quiz
+ZCZC W05 120 L22 Youtube : Study about V-Mem
