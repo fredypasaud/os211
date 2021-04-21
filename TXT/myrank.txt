@@ -12,3 +12,6 @@ ZCZC W04 frsardhf
 ZCZC W05 freezetabs
 ZCZC W05 gabriel-enrique
 ZCZC W05 FXDROS
+ZCZC W06 freezetabs
+ZCZC W06 ganiirsyadi
+ZCZC W06 frsardhf
