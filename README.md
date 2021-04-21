@@ -22,4 +22,4 @@ This is my Weekly Top Ten List for OS (Operating System) Course Assignment.
 * [Week 03](W03/)
 * [Week 04](W04/)
 * [Week 05](W05/)
-* [eek 06](W06/)
+* [Week 06](W06/)
