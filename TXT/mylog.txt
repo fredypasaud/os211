@@ -94,3 +94,14 @@ ZCZC W06 120 L05 GSGS Related
 ZCZC W06 75 L01 SCELE Related
 ZCZC W06 15 L23 Discord : reading
 ZCZC W06 120 L22 Youtube : Study about Processor Threads
+ZCZC W07 120 L02 ZOOM Related
+ZCZC W07 130 L11 Assignment #1
+ZCZC W07 10 L12 Assignment #2
+ZCZC W07 150 L13 Assignment #3
+ZCZC W07 160 L14 Assignment #4
+ZCZC W07 15 L15 Assignment #5
+ZCZC W07 15 L16 Assignment #6
+ZCZC W07 120 L05 GSGS Related
+ZCZC W07 75 L01 SCELE Related
+ZCZC W07 15 L23 Discord : reading
+ZCZC W07 135 L22 Youtube : Study about synchronization

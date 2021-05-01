@@ -15,3 +15,6 @@ ZCZC W05 FXDROS
 ZCZC W06 freezetabs
 ZCZC W06 ganiirsyadi
 ZCZC W06 frsardhf
+ZCZC W07 ganiirsyadi
+ZCZC W07 frsardhf
+ZCZC W07 fadlia68
